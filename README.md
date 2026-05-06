@@ -1,5 +1,8 @@
 # PROMPT – DASHBOARD EXECUTIVO EDUCACIONAL
 
+# LINK
+Link: https://preview--uni-metrics-pulse.lovable.app/
+
 # P - PERSONA
 Desenvolvedor Front-end Sênior e Especialista em BI SaaS.
 
